@@ -29,8 +29,8 @@ Deze repository bevat een verzameling PowerShell-scripts voor Microsoft Intune b
 
 ### 🔧 Applicatie Beheer
 - `scripts/applications/zoom/` - Zoom applicatie beheer scripts
-- `scripts/applications/app_install.ps1` - Basis applicatie installatie script
 - `scripts/applications/detection_7zip.ps1` - Detectie script voor 7-Zip installatie
+- `scripts/applications/Detection_Blank_enhanced.ps1` - Verbeterd detectie script template
 
 ### 🛠️ Utils Scripts
 - `scripts/utils/users_ms365.ps1` - Microsoft 365 gebruikers beheer script
@@ -48,7 +48,7 @@ Deze repository bevat een verzameling PowerShell-scripts voor Microsoft Intune b
 #### Applicatie Beheer
 - **Zoom**: Verzameling scripts voor Zoom applicatie implementatie en beheer
 - **7-Zip**: Detectie en installatie scripts voor 7-Zip applicatie
-- **App Install**: Basis applicatie installatie template
+- **Enhanced Detection**: Enhanced detection script template
 
 #### Utils Scripts
 - **Users MS365**: Microsoft 365 gebruikers beheer en configuratie
@@ -96,8 +96,8 @@ This repository contains a collection of PowerShell scripts for Microsoft Intune
 
 ### 🔧 Application Management
 - `scripts/applications/zoom/` - Zoom application management scripts
-- `scripts/applications/app_install.ps1` - Basic application installation script
 - `scripts/applications/detection_7zip.ps1` - Detection script for 7-Zip installation
+- `scripts/applications/Detection_Blank_enhanced.ps1` - Enhanced detection script template
 
 ### 🛠️ Utils Scripts
 - `scripts/utils/users_ms365.ps1` - Microsoft 365 user management script
@@ -115,7 +115,7 @@ This repository contains a collection of PowerShell scripts for Microsoft Intune
 #### Application Management
 - **Zoom**: Collection of scripts for Zoom application deployment and management
 - **7-Zip**: Detection and installation scripts for 7-Zip application
-- **App Install**: Basic application installation template
+- **Enhanced Detection**: Enhanced detection script template
 
 #### Utils Scripts
 - **Users MS365**: Microsoft 365 user management and configuration
